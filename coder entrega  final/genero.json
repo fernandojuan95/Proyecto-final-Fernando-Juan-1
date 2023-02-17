@@ -1,0 +1,26 @@
+    [
+        {
+            "id":1,
+                "nombre":"frankestein",
+                "genero": "terror, drama",
+                "creador" : "Mary Shelley",
+                "copias disponibles": 15
+        }
+    ,
+        {
+            "id":2,
+            "nombre":"soul eater",
+            "genero": "comedia, anime",
+            "creador" : "Atsushi Ōkubo",
+            "copias disponibles": 14
+        }
+    ,
+        {
+            "id":3,
+            "nombre":"el cuervo",
+            "genero": "terror, poesia",
+            "creador" : "edgar allan poe",
+            "copias disponibles": 13
+        }
+    ]
+        

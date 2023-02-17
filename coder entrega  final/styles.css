@@ -1,0 +1,15 @@
+body{
+margin: 0 auto;
+max-width: 1200px;
+font-family: 'Lato';
+color: rgb(202, 67, 67);
+}
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+.subtitulo{
+    margin-right: auto;
+    font-family: monospace;
+}
